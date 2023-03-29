@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning web technologies
 
-- 💞️ I’m looking to collaborate on ...
-
 - 📫 How to reach me at abderrahmane.elfarouah@laposte.net
 
 <!---
