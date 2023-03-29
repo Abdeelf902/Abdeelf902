@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abderrahmane  U+267F
+- 👋 Hi, I’m Abderrahmane  ♿
 
 - 👀 I’m interested in everything, im curious especiallly in movie,technology,medical
 
