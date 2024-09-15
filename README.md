@@ -6,9 +6,9 @@
 
 - 📫 How to reach me at abderrahmane.elfarouah@laposte.net
   
-- Enjoy my Intro  here : https://abdeelf902.github.io/my_presentation/
+- Enjoy my Intro  here : https://abdeelfarouah.github.io/my_presentation/
   
 <!---
-Abdeelf902/Abdeelf902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abdeelfarouah/Abdeelfarouah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
